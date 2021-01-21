@@ -1,0 +1,29 @@
+{
+	"name": "cordova-plugin-outsystemsIAPPlugin",
+	"version": "1.2.5",
+	"description": "outsystemsIAPPlugin",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": [
+		"file",
+		"chooser",
+		"picker",
+		"file-chooser",
+		"android",
+		"ios"
+	],
+	"author": "",
+	"license": "Apache-2.0",
+	"cordova": {
+		"id": "cordova-plugin-outsystemsIAPPlugin",
+		"platforms": [
+			"ios"
+		]
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
